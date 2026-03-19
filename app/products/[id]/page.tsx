@@ -13,7 +13,7 @@ export default function ProductDetailPage() {
   const router = useRouter();
   const productId = params.id as string;
 
-  const product = productsData.products.find(p => p.id === productId);
+  const product = productsData.products.find(p => String(p.id) === productId);
   const [selectedImage, setSelectedImage] = useState(0);
 
   if (!product) {
