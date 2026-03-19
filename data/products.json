@@ -1,0 +1,173 @@
+{
+  "categories": [
+    {
+      "id": "handles",
+      "name": "Handles",
+      "description": "Premium door and window handles",
+      "image": "https://images.pexels.com/photos/6585611/pexels-photo-6585611.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": "knobs",
+      "name": "Knobs",
+      "description": "Elegant door and cabinet knobs",
+      "image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": "cabinets",
+      "name": "Cabinet Hardware",
+      "description": "Modern cabinet fittings and accessories",
+      "image": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "description": "Luxury bathroom and interior accessories",
+      "image": "https://images.pexels.com/photos/6758773/pexels-photo-6758773.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ],
+  "products": [
+    {
+      "id": "luxury-lever-handle-01",
+      "name": "Luxury Lever Handle - Gold Edition",
+      "category": "handles",
+      "subcategory": "Door Handles",
+      "price": "Premium",
+      "description": "Exquisite gold-plated lever handle crafted from premium brass. Features a contemporary design with smooth operation and exceptional durability.",
+      "material": "Solid Brass with Gold Finish",
+      "size": "150mm Length",
+      "images": [
+        "https://images.pexels.com/photos/6585611/pexels-photo-6585611.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": "modern-handle-02",
+      "name": "Modern Minimalist Handle",
+      "category": "handles",
+      "subcategory": "Door Handles",
+      "price": "Premium",
+      "description": "Sleek and minimalist handle design perfect for contemporary interiors. Made from high-grade stainless steel.",
+      "material": "Stainless Steel with Matt Black Finish",
+      "size": "200mm Length",
+      "images": [
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": "classic-knob-01",
+      "name": "Classic Crystal Knob",
+      "category": "knobs",
+      "subcategory": "Cabinet Knobs",
+      "price": "Premium",
+      "description": "Timeless crystal knob with brass base. Adds elegance and sophistication to any cabinet or drawer.",
+      "material": "Crystal Glass with Brass Base",
+      "size": "35mm Diameter",
+      "images": [
+        "https://images.pexels.com/photos/7512982/pexels-photo-7512982.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": "cabinet-pull-01",
+      "name": "Luxury Cabinet Pull - Bronze",
+      "category": "cabinets",
+      "subcategory": "Cabinet Pulls",
+      "price": "Premium",
+      "description": "Elegant bronze cabinet pull with a refined finish. Perfect for kitchen and wardrobe applications.",
+      "material": "Solid Brass with Bronze Finish",
+      "size": "128mm Center-to-Center",
+      "images": [
+        "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": "towel-rail-01",
+      "name": "Premium Towel Rail - Gold",
+      "category": "accessories",
+      "subcategory": "Bathroom Accessories",
+      "price": "Premium",
+      "description": "Luxurious gold-finished towel rail. Heavy-duty construction with a stunning visual appeal.",
+      "material": "Brass with Gold Plating",
+      "size": "600mm Length",
+      "images": [
+        "https://images.pexels.com/photos/6758773/pexels-photo-6758773.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": true
+    },
+    {
+      "id": "lever-handle-02",
+      "name": "Contemporary Lever Handle",
+      "category": "handles",
+      "subcategory": "Door Handles",
+      "price": "Premium",
+      "description": "Modern lever handle with ergonomic design. Features a satin nickel finish for a sophisticated look.",
+      "material": "Zinc Alloy with Satin Nickel Finish",
+      "size": "140mm Length",
+      "images": [
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": false
+    },
+    {
+      "id": "glass-knob-01",
+      "name": "Elegant Glass Knob",
+      "category": "knobs",
+      "subcategory": "Cabinet Knobs",
+      "price": "Premium",
+      "description": "Beautiful hand-blown glass knob with metal base. Each piece is unique with subtle variations.",
+      "material": "Hand-Blown Glass with Chrome Base",
+      "size": "40mm Diameter",
+      "images": [
+        "https://images.pexels.com/photos/7512982/pexels-photo-7512982.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cabinet-handle-01",
+      "name": "Modern Cabinet Handle",
+      "category": "cabinets",
+      "subcategory": "Cabinet Handles",
+      "price": "Premium",
+      "description": "Sleek and modern cabinet handle with a brushed finish. Perfect for contemporary kitchen designs.",
+      "material": "Stainless Steel with Brushed Finish",
+      "size": "96mm Center-to-Center",
+      "images": [
+        "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "featured": false
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Rajesh Sharma",
+      "role": "Interior Designer",
+      "content": "Luxora Hardware transformed our luxury residential projects. The quality and finish are exceptional. Our clients love the premium feel.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Priya Mehta",
+      "role": "Homeowner",
+      "content": "We renovated our entire home with Luxora's products. The attention to detail and craftsmanship is outstanding. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Amit Patel",
+      "role": "Architect",
+      "content": "As an architect, I demand the best for my clients. Luxora Hardware delivers premium quality hardware that complements modern architectural designs perfectly.",
+      "rating": 5
+    }
+  ]
+}
