@@ -8,6 +8,7 @@ import { Phone, ArrowLeft, Download } from 'lucide-react';
 import productsData from '@/data/products.json';
 import ProductCard from '@/components/ProductCard';
 
+
 export default function ProductDetailPage() {
   const params = useParams();
   const router = useRouter();
