@@ -56,7 +56,7 @@ export default function Navbar() {
               Products
             </Link>
 
-            <div
+            {/* <div
               className="relative"
               onMouseEnter={() => setShowDropdown(true)}
               onMouseLeave={() => setShowDropdown(false)}
@@ -78,7 +78,7 @@ export default function Navbar() {
                   ))}
                 </div>
               )}
-            </div>
+            </div> */}
 
             <Link
               href="/about"
@@ -127,7 +127,7 @@ export default function Navbar() {
               >
                 Products
               </Link>
-              <div className="px-3 py-2 text-gray-400 font-medium text-sm">
+              {/* <div className="px-3 py-2 text-gray-400 font-medium text-sm">
                 Categories
               </div>
               {productsData.categories.map((category) => (
@@ -139,7 +139,7 @@ export default function Navbar() {
                 >
                   {category.name}
                 </Link>
-              ))}
+              ))} */}
               <Link
                 href="/about"
                 className="block px-3 py-2 text-gray-300 hover:text-amber-400 hover:bg-zinc-800 rounded-md transition-colors"
